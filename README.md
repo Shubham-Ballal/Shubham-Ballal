@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Ballal</h1>
-<h3 align="center">Passionate Computer Engineering Student | Coding Enthusiast | Android App Developer | Competitive Programmer</h3>
+<h3 align="center">Passionate Computer Engineering Student | Coding Enthusiast | Android App Developer |</h3>
+<h3 align="center">Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-ballal&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-ballal" /> </p>
 
